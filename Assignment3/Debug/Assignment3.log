@@ -1,0 +1,3 @@
+﻿  ScannerAndParser.c
+F:\수업자료\2020-2학기\컴파일러\Assignment3\Assignment3\ScannerAndParser.c(328,9): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Assignment3.vcxproj -> F:\수업자료\2020-2학기\컴파일러\Assignment3\Debug\Assignment3.exe
